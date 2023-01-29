@@ -1,0 +1,6 @@
+Αθηνά Μαρία Ζέρβα - 3170207
+Νίκος Δεληγιάννης - 3170268	
+Endpoint : database-1.c1elzenbavmw.us-east-1.rds.amazonaws.com
+Username : examiner
+Password : examiner1
+Database : Project_Movies
